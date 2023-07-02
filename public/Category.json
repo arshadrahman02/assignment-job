@@ -1,0 +1,34 @@
+[
+  {
+    "id": "01",
+    "category_name": "Account & Financial",
+
+    "category_logo": "https://cdn-icons-png.flaticon.com/512/781/781831.png",
+
+    "jobs_available": "300 jobs available"
+  },
+  {
+    "id": "02",
+    "category_name": "Creative Design",
+
+    "category_logo": "https://cdn-icons-png.flaticon.com/512/922/922699.png",
+
+    "jobs_available": "100+ jobs available"
+  },
+  {
+    "id": "03",
+    "category_name": "Marketing & Sales",
+
+    "category_logo": "https://cdn-icons-png.flaticon.com/512/2518/2518048.png",
+
+    "jobs_available": "150 jobs available"
+  },
+  {
+    "id": "04",
+    "category_name": "Engineering Job",
+
+    "category_logo": "https://cdn-icons-png.flaticon.com/512/2421/2421271.png",
+
+    "jobs_available": "200 jobs available"
+  }
+]

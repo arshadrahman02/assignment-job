@@ -1,0 +1,176 @@
+[
+  {
+    "id": "1",
+
+    "image": "https://www.freepnglogos.com/uploads/google-logo-png/file-google-logo-svg-wikimedia-commons-23.png",
+
+    "jobTitle": "Technical Database Engineer",
+
+    "companyName": "Google LLC",
+
+    "companyLocation": "Qatar, Doha",
+
+    "salary": "800k-900k",
+
+    "jobDescription": "We are looking for a skilled Technical Database Engineer to join our team...",
+
+    "jobResponsibilities": "Develop and maintain websites  for software and web applications ...",
+
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field...",
+
+    "experiences": "7+ years of experience in Technical Database",
+
+    "email": "jobs@abccompany.com",
+
+    "phone": "555-1234",
+
+    "jobType": "Full Time",
+
+    "WhereSitsWork": "Remote"
+  },
+  {
+    "id": "2",
+
+    "image": "https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png",
+
+    "jobTitle": "Senior Product Designer",
+
+    "companyName": "NetFlix",
+
+    "companyLocation": "Nevada, USA",
+
+    "salary": "200k-600k",
+
+    "jobDescription": "We are looking for a skilled Senior Product Designer to join our team  A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface......",
+
+    "jobResponsibilities": "Develop and maintain websites...",
+
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field...",
+
+    "experiences": "7+ years of experience in Technical Database",
+
+    "email": "jobs@abccompany.com",
+
+    "phone": "555-1234",
+
+    "jobType": "Full Time",
+
+    "WhereSitsWork": "OnSite"
+  },
+  {
+    "id": "3",
+
+    "image": "https://pngimg.com/uploads/tesla_logo/small/tesla_logo_PNG21.png",
+
+    "jobTitle": "Software Engineer",
+
+    "companyName": "Tesla",
+
+    "companyLocation": "Qatar, Doha",
+
+    "salary": "120k-1200k",
+
+    "jobDescription": "We are looking for a skilled Software Engineer to join our team...",
+
+    "jobResponsibilities": "Develop and maintain websites...",
+
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field...",
+
+    "experiences": "7+ years of experience in Technical Database",
+
+    "email": "jobs@abccompany.com",
+
+    "phone": "555-1234",
+
+    "jobType": "Full Time",
+
+    "WhereSitsWork": "OnSite"
+  },
+  {
+    "id": "4",
+
+    "image": "https://static.wikia.nocookie.net/gtawiki/images/6/6e/ProLaps-GTAV-Logo.png",
+
+    "jobTitle": "Industrial Production",
+
+    "companyName": "ProLaps",
+
+    "companyLocation": "Qatar, Doha",
+
+    "salary": "800k-900k",
+
+    "jobDescription": "We are looking for a skilled Industrial Production to join our team...",
+
+    "jobResponsibilities": "Develop and maintain websites...",
+
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field...",
+
+    "experiences": "7+ years of experience in Industrial line",
+
+    "email": "jobs@abccompany.com",
+
+    "phone": "555-1234",
+
+    "jobType": "Full Time",
+
+    "WhereSitsWork": "Remote"
+  },
+  {
+    "id": "5",
+
+    "image": "https://www.freepnglogos.com/uploads/google-logo-png/file-google-logo-svg-wikimedia-commons-23.png",
+
+    "jobTitle": "Technical Database Engineer",
+
+    "companyName": "",
+
+    "companyLocation": "Qatar, Doha",
+
+    "salary": "800k-900k",
+
+    "jobDescription": "We are looking for a skilled Technical Database Engineer to join our team...",
+
+    "jobResponsibilities": "Develop and maintain websites...",
+
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field...",
+
+    "experiences": "7+ years of experience in Technical Database",
+
+    "email": "jobs@abccompany.com",
+
+    "phone": "555-1234",
+
+    "jobType": "Full Time",
+
+    "WhereSitsWork": "Remote"
+  },
+  {
+    "id": "6",
+
+    "image": "https://images.pexels.com/photos/4397810/pexels-photo-4397810.jpeg",
+
+    "jobTitle": "Technical Database Engineer",
+
+    "companyName": "",
+
+    "companyLocation": "Qatar, Doha",
+
+    "salary": "800k-900k",
+
+    "jobDescription": "We are looking for a skilled Technical Database Engineer to join our team...",
+
+    "jobResponsibilities": "Develop and maintain websites...",
+
+    "educationalRequirements": "Bachelor's degree in Computer Science or related field...",
+
+    "experiences": "7+ years of experience in Technical Database",
+
+    "email": "jobs@abccompany.com",
+
+    "phone": "555-1234",
+
+    "jobType": "Full Time",
+
+    "WhereSitsWork": "Remote"
+  }
+]
